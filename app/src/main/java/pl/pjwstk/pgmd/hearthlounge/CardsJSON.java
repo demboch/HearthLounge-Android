@@ -284,7 +284,6 @@ public class CardsJSON extends AppCompatActivity{
             if(convertView == null) {
                 convertView = inflater.inflate(R.layout.selected_card, null);
             }
-// cos 
             ImageView image_view_card;
             TextView text_view_cardId;
             TextView text_view_dbfId;
