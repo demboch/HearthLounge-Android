@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313812762792",
+    "firebase_url": "https://hearthlounge-32197.firebaseio.com",
+    "project_id": "hearthlounge-32197",
+    "storage_bucket": "hearthlounge-32197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313812762792:android:dda7e28f685775d8",
+        "android_client_info": {
+          "package_name": "pl.pjwstk.pgmd.hearthlounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313812762792-qgnd9jfhjl4jh1ji0hpv8g3rteh2s71g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.pjwstk.pgmd.hearthlounge",
+            "certificate_hash": "be9305fd5eb91517a31f5ded4d2e498fe36dfc31"
+          }
+        },
+        {
+          "client_id": "313812762792-1n899dtcirubk97pkhdkq91nndevr4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRyXnKWGLAm93ZVVYchSN2HXL3xBNisY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313812762792-1n899dtcirubk97pkhdkq91nndevr4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
